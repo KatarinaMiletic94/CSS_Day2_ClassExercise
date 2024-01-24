@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Happy+Monkey&display=swap');
+.happy-monkey-regular {
+  font-family: 'Anton', sans-serif;
+  font-family: 'Happy Monkey', system-ui;
+  font-style: normal;
+}
+.container {
+  width: 800px;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+p {
+  color: #707070;
+}
+li {
+  color: #707070;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+h1 {
+  color: #db0038;
+}
+h2 {
+  color: #3998a3;
+}
+h3 {
+  color: #474747;
+}
+.hero {
+  background-color: #f4f4f4;
+  box-shadow: black 5px 5px 10px 5px, black -5px -5px 10px 5px;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.Rating {
+  color: #f4b400;
+  size: 25px;
+}
+footer {
+  text-align: center;
+}
